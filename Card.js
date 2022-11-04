@@ -1,4 +1,4 @@
-import kelvinToCelsius from "../utils/convertTemperature.js";
+import kelvinToCelsius from "./src/utils/convertTemperature.js";
 
 const card = async (city) => {
   const apiKey = "21d807407fc08f0dca752a98c2c9b2d1";

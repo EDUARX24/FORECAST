@@ -1,4 +1,4 @@
-import card from "./components/Card.js";
+import card from "../Card.js";
 
 // Array con las cartas insertadas para validar que no se repita la mísma
 const cardsInserted = [];
